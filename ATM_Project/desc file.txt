@@ -4,3 +4,4 @@ try to pull
 try fetch then merge 
 try to push
 feremob
+try to pull instead of fetch+merge
